@@ -1,4 +1,4 @@
-![ALT](images\pexels-photo-1642125.jpg)
+![ALT](images/pexels-photo-1642125.jpg)
 
 ### House Prediction
 
